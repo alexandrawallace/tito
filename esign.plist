@@ -18,11 +18,11 @@
                     <key>bundle-identifier</key>
                      <string>com.zhiliaoapp.musically</string>
                      <key>bundle-version</key>
-                    <string>21.1.0</string>
+                    <string>4.8.2</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>TikTok</string>
+                    <string>esign</string>
                 </dict>
             </dict>
         </array>
