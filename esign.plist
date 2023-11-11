@@ -16,7 +16,7 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                     <string>com.zhiliaoapp.musically</string>
+                     <string>com.pgxcg.musically</string>
                      <key>bundle-version</key>
                     <string>4.8.2</string>
                     <key>kind</key>
